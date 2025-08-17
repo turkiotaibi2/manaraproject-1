@@ -1,5 +1,5 @@
 # Scalable WordPress Web Application on AWS
-![Alt text](./img/manara-SA-architecture.jpg)
+![Alt text](manara-SA-architecture.jpg)
 
 This project showcases how to deploy a scalable and highly available WordPress-based web application architecture on AWS using EC2, Elastic Load Balancer, Auto Scaling, EFS, and Amazon RDS, CloudWatch, SNS and IAM roles.
 
